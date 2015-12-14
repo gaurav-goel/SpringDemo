@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Fri Dec 11 07:34:37 GMT 2015
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ggoel\\.m2\\repository\\org\\springframework\\spring-web\\4.2.3.RELEASE\\spring-web-4.2.3.RELEASE.jar=WEB-INF/lib/spring-web-4.2.3.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ggoel\\.m2\\repository\\org\\apache\\tomcat\\embed\\tomcat-embed-websocket\\8.0.28\\tomcat-embed-websocket-8.0.28.jar=WEB-INF/lib/tomcat-embed-websocket-8.0.28.jar

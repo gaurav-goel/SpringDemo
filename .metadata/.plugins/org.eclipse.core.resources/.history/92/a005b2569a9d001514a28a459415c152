@@ -1,0 +1,5 @@
+package com.mycompany.springapp.model;
+
+public class Address {
+
+}

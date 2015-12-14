@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.core.variables.valueVariables=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<valueVariables>\r\n<valueVariable description\="Absolute file system path of directory of large test files" name\="GDALargeTestFiles_loc" readOnly\="false" value\="/dls_sw/dasc/GDALargeTestFiles/"/>\r\n<valueVariable description\="Project name of GDA instance config" name\="GDA_instance_config_name" readOnly\="false" value\="beamline-config"/>\r\n</valueVariables>\r\n

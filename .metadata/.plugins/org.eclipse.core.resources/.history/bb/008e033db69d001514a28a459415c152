@@ -1,0 +1,5 @@
+package com.mycompany.springapp.dao;
+
+public class AddressDao {
+
+}
